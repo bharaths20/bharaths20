@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bharaths20
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full Stack Development
+- 👋 Hi, I’m Bharath
+- 👀 I’m interested in Software Development, I have an experience of 2 years as Tibco and Java Dev Engineer. I am looking to transition into Full-Stack Development.
+- 🌱 I’m currently learning MERN Stack. 
 - 💞️ I’m looking to collaborate on Full Stack projects which will increase my knowledge and help me understand realtime applications of these technologies.
 - 📫 Reach me at bharathn127@gmail.com
 
