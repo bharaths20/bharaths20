@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bharaths20
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Front End Technologies
-- 💞️ I’m looking to collaborate on Front End projects which will increase my knowledge and help me get a realtime knowledge on these technologies.
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on Full Stack projects which will increase my knowledge and help me understand realtime applications of these technologies.
 - 📫 Reach me at bharathn127@gmail.com
 
 <!---
